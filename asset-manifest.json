@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StManager/static/css/main.01e4ac80.css",
+    "main.js": "/StManager/static/js/main.e624859b.js",
+    "index.html": "/StManager/index.html",
+    "main.01e4ac80.css.map": "/StManager/static/css/main.01e4ac80.css.map",
+    "main.e624859b.js.map": "/StManager/static/js/main.e624859b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e4ac80.css",
+    "static/js/main.e624859b.js"
+  ]
+}
